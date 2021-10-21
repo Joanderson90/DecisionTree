@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A simple model of Decision Tree to predict the obesity levels in individuals, using both age and weight as input.
+Using simple model of Decision Tree to predict the obesity levels in individuals, using both age and weight as input.
 
 
 
